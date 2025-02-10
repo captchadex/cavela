@@ -58,7 +58,7 @@ export function ProductSheet({
         <SheetFooter>
           <SheetClose asChild>
             <Button
-              className="w-[100%] rounded-lg border border-[#000EEF] text-[#000EEF] mr-4"
+              className="w-[100%] rounded-lg border border-[#000EEF] text-[#000EEF] hover:text-[#000EEF] mr-4"
               variant="outline"
             >
               <Cross /> Close
